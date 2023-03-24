@@ -84,6 +84,13 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/VeckoTheGecko"><img src="https://avatars.githubusercontent.com/u/36369090?v=4?s=60" width="60px;" alt="Vecko"/><br /><sub><b>Vecko</b></sub></a><br /><a href="#infra-VeckoTheGecko" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/VeckoTheGecko/knowledge-hub/commits?author=VeckoTheGecko" title="Tests">⚠️</a> <a href="https://github.com/VeckoTheGecko/knowledge-hub/commits?author=VeckoTheGecko" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
