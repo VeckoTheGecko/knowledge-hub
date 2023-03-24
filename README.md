@@ -1,4 +1,7 @@
 
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 <p align="center">
 <a href="https://climatetown.github.io/knowledge-hub">
 <img width="200" src="static/images/knowledge-hub-logo.png">
@@ -84,6 +87,13 @@ Thanks go to these wonderful people ([emoji key](https://allcontributors.org/doc
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://github.com/VeckoTheGecko"><img src="https://avatars.githubusercontent.com/u/36369090?v=4?s=100" width="100px;" alt="Vecko"/><br /><sub><b>Vecko</b></sub></a><br /><a href="#infra-VeckoTheGecko" title="Infrastructure (Hosting, Build-Tools, etc)">🚇</a> <a href="https://github.com/VeckoTheGecko/knowledge-hub/commits?author=VeckoTheGecko" title="Tests">⚠️</a> <a href="https://github.com/VeckoTheGecko/knowledge-hub/commits?author=VeckoTheGecko" title="Code">💻</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
@@ -94,3 +104,16 @@ This project follows the [all-contributors](https://allcontributors.org) specifi
 
 ## Acknowledgements
 - [Twemoji](https://twemoji.twitter.com/) for emoji support
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
